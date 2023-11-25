@@ -22,7 +22,7 @@ const Table = (props) => {
               <th>Title</th>
               <th>Author</th>
               <th>ISBN#</th>
-              <th>Publish Year</th>
+              <th>Publish_Year</th>
               <th>Delete</th>
             </tr>
           </thead>
