@@ -10,7 +10,7 @@ const Table = (props) => {
 
   function deleteRow(id) {
     const restBooks = books.filter((book) => book.isbn !== id);
-    setBook(restBooks);
+    setBook(restBooks); 
   }
 
   return (
